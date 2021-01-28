@@ -15,7 +15,7 @@ We’re using this Grammy nominee data from Kaggle that contains the Grammy nomi
 <br>
 
 ## EXTRACT:
-*One CSV will be imported to pandas using from_csv, the other (after converting it to sql in Postgres) will be loaded using from_sql with  pandas* 
+*One CSV will be imported to Pandas using read_csv, the other (after converting it to sql in Postgres) will be loaded using read_sql_table with  Pandas* 
 <br>
 
 * Download Kaggle CSVs [5 min] -Jon + Yeni
