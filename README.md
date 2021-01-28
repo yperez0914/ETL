@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Streaming to the Top--Have The Grammys become the next thing to be Made By Spotify? 
+# Streaming to the Top: Have The Grammys become the next thing to be Made By Spotify? 
 # An ETL Exercise By: Jon + Yeni
 </div>
 <br>
@@ -9,7 +9,8 @@
 We’re using this Spotify data from Kaggle that contains the top most streamed songs for each year between 2009 and 2019: <br>
 (https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year)
 <br>
-We’re use the Grammy Nominee data from Kaggle that contains the Grammy nominees from 1958 to 2019: <br>
+<br>
+We’re using this Grammy nominee data from Kaggle that contains the Grammy nominees from 1958 to 2019: <br>
 (https://www.kaggle.com/unanimad/grammy-awards)
 <br>
 
